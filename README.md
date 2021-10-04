@@ -10,5 +10,3 @@
 <a href="https://www.linkedin.com/in/danielalvesdearaujo/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newlog16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
