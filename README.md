@@ -9,7 +9,7 @@ Im searching for a job as a Front-End software developer.
 - I love gaming on my spare time;
 - I watch a LOT of youtube when i can;
 - I also listen to tons of music;
-- If i can be of any help i will be;
+- If i can be of any help i will;
 - Working from home is a personal objective of mine;
 - Want to talk to me? send me an e-mail at araujodaniel321@gmail.com.
 
