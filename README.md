@@ -1,5 +1,5 @@
-# danielAlves
-<p>
+# Under Construction...
+<!-- <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newlog16&layout=compact&theme=graywhite&title_color=268bd2" alt="newlog16" />
 </p>
 <p>&nbsp;
@@ -9,4 +9,4 @@
 
 <a href="https://www.linkedin.com/in/danielalvesdearaujo/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+</a> -->
