@@ -1,4 +1,4 @@
-Hello, my name is **Daniel**, i'm from Pernambuco, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
+Hello, my name is **Daniel**, born in Pernambuco, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
 
 Im searching for a job as a Front-End software developer.
 
