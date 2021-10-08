@@ -2,6 +2,7 @@ Hello, my name is **Daniel Alves de Araujo**, born in Pernambuco, Brazil, and i'
 
 Im searching for a job as a Front-End software developer.
 
+Hey! wanna check my <a href="https://newlog16.github.io/daniel-sPortifolio/">portfolio</a>? it's still being built, but you can look there if you want.
 
 **What i like:**
 
