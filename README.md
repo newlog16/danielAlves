@@ -24,7 +24,6 @@ I also have knowledge on:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
-
 <div>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newlog16&layout=compact&theme=graywhite&title_color=268bd2" alt="newlog16" />
@@ -35,3 +34,4 @@ I also have knowledge on:
   </div>
 
 ⭐️ Based on [Mariana Mohr](https://github.com/marianamohr)
+
