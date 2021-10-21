@@ -4,14 +4,14 @@ Im searching for a job as a Front-End software developer.
 
 Hey! wanna check my <a href="https://newlog16.github.io/daniel-sPortifolio/">portfolio</a>? it's still being built, but you can look there if you want.
 
-**What i like:**
+**About me:**
 
 
-- I love gaming on my spare time;
+- Gaming is my favorite thing to do on spare time;
 - I watch a LOT of youtube when i can;
+- Working from home is a personal objective of mine;
 - I also listen to tons of music;
 - If i can be of any help i will;
-- Working from home is a personal objective of mine;
 - Want to talk to me? send me an e-mail at araujodaniel321@gmail.com.
 
 I also have knowledge on:
@@ -27,10 +27,10 @@ I also have knowledge on:
 
 <div>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newlog16&layout=compact&theme=graywhite&title_color=268bd2" alt="newlog16" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newlog16&layout=compact&theme=default" alt="newlog16" />
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=newlog16&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="newlog16" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=newlog16&count_private=true&show_icons=true&theme=default" alt="newlog16" />
 </p>
   </div>
 
