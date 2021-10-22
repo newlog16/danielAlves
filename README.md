@@ -7,14 +7,12 @@ Hey! wanna check my <a href="https://newlog16.github.io/daniel-sPortifolio/">por
 **About me:**
 
 
-- Gaming is my favorite thing to do on spare time;
-- I watch a LOT of youtube when i can;
-- Working from home is a personal objective of mine;
-- I also listen to tons of music;
-- If i can be of any help i will;
-- Want to talk to me? send me an e-mail at araujodaniel321@gmail.com.
+- Currently i'm learning Backend at <a href="https://www.betrybe.com/">Trybe</a>.
+- Playing video-games is what i like to do on spare time.
+- I hope to be able to help others and be helped by them.
+- Also, I am interested in working from home.
 
-I also have knowledge on:
+I have knowledge on:
 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
