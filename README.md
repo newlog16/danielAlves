@@ -1,6 +1,6 @@
 Hello, my name is **Daniel Alves de Araujo**, born in Pernambuco, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
 
-Im searching for a job as a Front-End software developer.
+Im searching for a job as a Frontend software developer.
 
 Hey! wanna check my <a href="https://newlog16.github.io/daniel-sPortifolio/">portfolio</a>? it's still being built, but you can look there if you want.
 
