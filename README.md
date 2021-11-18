@@ -10,7 +10,7 @@ Hey! wanna check my <a href="https://newlog16.github.io/daniel-sPortifolio/">por
 - Currently i'm learning Backend at <a href="https://www.betrybe.com/">Trybe</a>.
 - Playing video-games is what i like to do on spare time.
 - I hope to be able to help others and be helped by them.
-- Also, I am interested in working from home.
+- I want to learn other programming lenguages on the future.
 
 I have knowledge on:
 
