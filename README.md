@@ -1,4 +1,4 @@
-Hello, my name is **Daniel Alves de Araujo**, born in Pernambuco, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
+Hello, my name is **Daniel Alves de Araujo**, born in Pernambuco, Brazil.
 
 Im searching for a job as a Frontend software developer.
 
